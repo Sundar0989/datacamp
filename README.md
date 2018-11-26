@@ -21,7 +21,7 @@
 ## Chapter 3 - Logistic Regression
    * Lesson 3.1 - Introduction to Logistic Regression
      * Learning objective: Introduce logsitc regression concepts to students. Provide examples for logistic regression(binary) outcome prediction. Explain why linear regression cannot be used to predict binary outcome? Also, explain how the same algorithm can be used to predict multinomial outcome (will not be covered in depth in lecture)
-   * Lesson 3.2 - Fit a Multiple Regression using statsmodels and sklearn
+   * Lesson 3.2 - Fit a Logistic Regression using statsmodels and sklearn
      * Learning objective: Use python to fit the Logistic regression model using two different packages - statsmodels and sklearn.
    * Lesson 3.3 - Interpreting the parameter estimates and odds ratio
      * Learning objective: How to interpret the model parameter estimates from Logistic regression fit? What is the significance of each estimates? How to interpret the odds ratio?

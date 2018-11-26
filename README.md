@@ -2,13 +2,11 @@
 
 # Multiple and Logistic Regression
 
-
-
 ## Chapter 1 - Univariate Regression
-   * Lesson 1.1 - Anova, Anova Assumptions and Correlation
-     * Learning objective: Introduce Anova, talk about assumptions of Anova, Understand the linear relationship between two variables using correlation. Why correlation cannot be used to predict a variable outcome? Also, learn to write the codes in python to test anova, its assumption and to calculate correlation metrics. 
-   * Lesson 1.2 - Parametric vs Non-parametric models, Deterministic vs Stochastic models
+   * Lesson 1.1 - Parametric vs Non-parametric models, Deterministic vs Stochastic models
      * Learning objective: Understand the difference between each model types. How regression falls under the parametric-stochastic models category?
+   * Lesson 1.2 - Anova, Anova Assumptions and Correlation
+     * Learning objective: Introduce Anova, talk about assumptions of Anova, Understand the linear relationship between two variables using correlation. Why correlation cannot be used to predict a variable outcome? Also, learn to write the codes in python to test anova, its assumption and to calculate correlation metrics.
    * Lesson 1.3 - Univariate Regression
      * Learning objective: What is Simple Linear Regression or Univariate Regression? How can regression used to predict a variable outcome? Examples.
 ## Chapter 2 - Multiple Regression
